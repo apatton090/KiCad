@@ -2,7 +2,7 @@
 Personal KiCad Projects
 
 
-1. Getting to Blinky 5.0 (GTB5):
+Getting to Blinky 5.0 (GTB5)
 
 https://contextualelectronics.com/courses/getting-to-blinky-5-0/
 
