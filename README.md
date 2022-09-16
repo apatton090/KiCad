@@ -8,6 +8,12 @@ https://contextualelectronics.com/courses/getting-to-blinky-5-0/
 
 https://www.youtube.com/watch?v=BVhWh3AsXQs&list=PLy2022BX6EspFAKBCgRuEuzapuz_4aJCn&index=1
 
+https://www.youtube.com/watch?v=n3rKSE2zIUQ&list=PLy2022BX6Eso532xqrUxDT1u2p4VVsg-q&index=5
+
+
+![Blinky1](Blinky1.jpg?raw=true "Title")
+
+
 
 Lessons learned:
 
