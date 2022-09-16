@@ -20,7 +20,7 @@ Lessons learned:
 
 Build:
 
-- Soldering SMT components by hand is rather difficult. It works but it takes a fine touch: would not recommend for someone who it new to soldering. Need to have solder wick on hand to fix any mistakes (solder bridges.)
+- Soldering SMT components by hand is rather difficult. It works but it takes a fine touch: would not recommend for someone who is new to soldering. Need to have solder wick on hand to fix any mistakes (solder bridges.)
 
 - Labeling all of your component bags with ref des. beforehand is a good idea. Make sure you have the ref des. in silkscreen on your board and have the schematic on hand for reference. Datasheets for any ICs also useful to check orientation and debugging.
 
