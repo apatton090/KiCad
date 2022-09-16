@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name "GettingToBlink5")(type "KiCad")(uri "${KIPRJMOD}/GettingToBlink5.pretty")(options "")(descr ""))
-)
