@@ -35,7 +35,7 @@ Design:
 
 - It would be helpful to select components and maintain a BOM during the schematic design. For this project, the components were not selected and ordered until after the PCB was sent to the fab. Electronics components are still seeing shortages, so it could take a while to get some components on a more complex design.
 
-- It took about 2 weeks for Oshpark to send the design to the fab, then ship out from the fab. After the notification that they had shipped, I received the boards in 3 days.
+- It took about 2 weeks for Oshpark to send the design to the fab, then ship out from the fab. After the notification that they had shipped, I received the boards in 3 days. The components from Digikey did not take long since they were all in stock.
 
 
 
